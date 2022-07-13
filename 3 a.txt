@@ -1,0 +1,4 @@
+First, I will install the and load the ggplot2 package into my library
+After I will install the library (“readxl”)
+Then I will code plot5<- ggplot(df, aes(x=given variable, y=given variable, color=given variable)) + geom_line()
+plot5
